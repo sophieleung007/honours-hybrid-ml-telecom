@@ -23,4 +23,5 @@ This project applies a hybrid ML model combining deep learning (autoencoder) and
 ## 🔬 Built With
 - Python, Keras, Scikit-learn, Pandas, NumPy, Matplotlib
 - Developed in Google Colab![31482 Autoencoder Train and Validation Loss](https://github.com/user-attachments/assets/e86948c2-531f-4007-92cb-6ef8cb433a01)
-![31482 Confusion Matrix](https://github.com/user-attachments/assets/cdc976a0-cfcf-4203-bce5-53a9f725f0b4)
+![31482 Confusion Matrix](https://github![31482 Classification Report](https://github.com/user-attachments/assets/21701860-a5c8-4f5c-9b0c-86dd02709d20)
+.com/user-attachments/assets/cdc976a0-cfcf-4203-bce5-53a9f725f0b4)
