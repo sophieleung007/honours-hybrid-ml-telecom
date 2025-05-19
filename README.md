@@ -1,4 +1,3 @@
-![31482 Classification Report](https://github.com/user-attachments/assets/9c286839-8724-4b35-8c43-63d0204e2adc)
 # honours-hybrid-ml-telecom
 # Honours Project: Hybrid Autoencoder + Random Forest for Telecom Anomaly Detection
 
