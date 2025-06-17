@@ -41,6 +41,10 @@ This project applies a hybrid ML model combining deep learning (autoencoder) and
 ![31482 Classification Report](https://github.com/user-attachments/assets/12d47727-48ae-45b7-91c5-9b1e03053d04)
 
 
+
+
+
+
 ## 42028-Project-Autonomous_Driving
 I’m also a collaborator on the [42028-Project-Autonomous_Driving](https://github.com/adriankumar/42028-Project-Autonomous_Driving) project. The main branch ([view here](https://github.com/adriankumar/42028-Project-Autonomous_Driving/tree/main)) contains our core work. My contributions include:
 
@@ -50,6 +54,6 @@ I’m also a collaborator on the [42028-Project-Autonomous_Driving](https://gith
 - Enhanced the user interface with `SteeringWheel` and `DrivingControl` classes for intuitive visualizations and interactive controls.
 - Documented the convolutional head architecture, evaluation methodology, feature extraction, and layer parameters.
 
-Check out our [showcase video](https://www.youtube.com/watch?v=FuSemjOSa5k) to see the project in action!
+Check out our [showcase video](https://www.youtube.com/watch?v=FuSemjOSa5k) create by Yan Liang to see the project in action!
 
 I’m currently working on my contributions in the [yans_branch](https://github.com/adriankumar/42028-Project-Autonomous_Driving/tree/yans_branch).
