@@ -4,6 +4,7 @@
 |----------------------------------------|--------------------------------------|-------------------------------------------------------------------------------|
 | honours-hybrid-ml-telecom              | Telecom anomaly detection            | [Link](https://github.com/sophieleung007)                                     |
 | 42028-Project-Autonomous_Driving       | Autonomous driving AI                | [Link](https://github.com/adriankumar/42028-Project-Autonomous_Driving)       |
+| Facial_Recognition_Facenet             | Facial recognition with Facenet      | [Link](https://github.com/sophieleung007/Facial_Recognition_Facenet           |
 
 
 
@@ -57,3 +58,15 @@ I’m also a collaborator on the [42028-Project-Autonomous_Driving](https://gith
 Check out our [showcase video](https://www.youtube.com/watch?v=FuSemjOSa5k) create by Yan Liang to see the project in action!
 
 I’m currently working on my contributions in the [yans_branch](https://github.com/adriankumar/42028-Project-Autonomous_Driving/tree/yans_branch).
+
+
+
+
+
+## Facial_Recognition_Facenet
+I’m working on [Facial_Recognition_Facenet](https://github.com/sophieleung007/Facial_Recognition_Facenet), a project using Facenet with RMSprop for facial recognition. My contributions include:
+
+- Implemented training and inference pipelines in a Jupyter Notebook, converted to a Python script.
+- Developed facial matching with bounding box visualization.
+
+Check out the [script](https://github.com/sophieleung007/Facial_Recognition_Facenet/blob/main/Augmented_0_3_RMSprop_Training_Facenet_.py) for details!
