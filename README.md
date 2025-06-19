@@ -71,3 +71,25 @@ I’m working on [Facial_Recognition_Facenet](https://github.com/sophieleung007/
 - Developed facial matching with bounding box visualization.
 
 Check out the [script](https://github.com/sophieleung007/Facial_Recognition_Facenet/blob/main/Augmented_0_3_RMSprop_Training_Facenet_.py) for details!
+
+
+
+
+
+## Traffic-Sign-Recognition
+
+This repository contains an efficient traffic sign recognition project using YOLOv2 and YOLOv8, optimized for low-power devices.
+
+## Features
+- Implements YOLOv8 training with Ultralytics for traffic sign detection.
+- Includes YOLOv2 setup with Darknet for comparison.
+- Measures inference time and FPS on test images.
+- Provides model metrics and visualization.
+
+## Usage
+- Run the script locally with Python and required dependencies (e.g., `ultralytics`, `opencv-python`, `darknet`).
+- Update paths (e.g., `weights_path`, `image_dir`) as needed.
+
+## Files
+- [Traffic-Sign-Recognition.ipynb](https://github.com/sophieleung007/Traffic-Sign-Recognition/blob/main/Traffic-Sign-Recognition.ipynb)
+
