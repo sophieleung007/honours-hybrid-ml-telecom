@@ -5,6 +5,7 @@
 | honours-hybrid-ml-telecom              | Telecom anomaly detection            | [Link](https://github.com/sophieleung007)                                     |
 | 42028-Project-Autonomous_Driving       | Autonomous driving AI                | [Link](https://github.com/adriankumar/42028-Project-Autonomous_Driving)       |
 | Facial_Recognition_Facenet             | Facial recognition with Facenet      | [Link](https://github.com/sophieleung007/Facial_Recognition_Facenet)          |
+| Traffic-Sign-Recognition               | Traffic sign recognition project     | [Link](https://github.com/sophieleung007/Traffic-Sign-Recognition)            |
 
 
 
