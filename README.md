@@ -89,6 +89,6 @@ This repository contains an efficient traffic sign recognition project using YOL
 - Run the script locally with Python and required dependencies (e.g., `ultralytics`, `opencv-python`, `darknet`).
 - Update paths (e.g., `weights_path`, `image_dir`) as needed.
 
-# Files
+## Files
 - [Traffic-Sign-Recognition.ipynb](https://github.com/sophieleung007/Traffic-Sign-Recognition/blob/main/Traffic-Sign-Recognition.ipynb)
 
