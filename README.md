@@ -11,29 +11,28 @@
 
 # Hi, I’m sophieleung007!
 
-## honours-hybrid-ml-telecom
-# Honours Project: Hybrid Autoencoder + Random Forest for Telecom Anomaly Detection
+## Honours Project: Hybrid Autoencoder + Random Forest for Telecom Anomaly Detection
 
 This project applies a hybrid ML model combining deep learning (autoencoder) and traditional ML (random forest) to detect anomalies in telecom network infrastructure using telemetry and physical network inventory data.
 
-## 🔍 Key Features
+# 🔍 Key Features
 - 📡 **Domain**: Broadband infrastructure validation
 - 🤖 **Tech**: Autoencoder (Keras), Random Forest (Scikit-learn)
 - 📈 **Output**: Reconstruction error, classification metrics, confusion matrix
 - ☁️ **Cloud-native**: Originally developed in Google Colab
 
-## 🧪 Workflow
+# 🧪 Workflow
 1. Preprocess and merge PNI and telemetry data
 2. Train deep autoencoder on normal data
 3. Extract compressed features + reconstruction error
 4. Feed to Random Forest for classification
 5. Evaluate with accuracy, precision, recall, F1
 
-## 🖼️ Sample Output
+# 🖼️ Sample Output
 - `autoencoder_loss.png`
 - `confusion_matrix.png`
 
-## 🔬 Built With
+# 🔬 Built With
 - Python, Keras, Scikit-learn, Pandas, NumPy, Matplotlib
 - Developed in Google Colab!
 
@@ -80,16 +79,16 @@ Check out the [script](https://github.com/sophieleung007/Facial_Recognition_Face
 
 This repository contains an efficient traffic sign recognition project using YOLOv2 and YOLOv8, optimized for low-power devices.
 
-## Features
+# Features
 - Implements YOLOv8 training with Ultralytics for traffic sign detection.
 - Includes YOLOv2 setup with Darknet for comparison.
 - Measures inference time and FPS on test images.
 - Provides model metrics and visualization.
 
-## Usage
+# Usage
 - Run the script locally with Python and required dependencies (e.g., `ultralytics`, `opencv-python`, `darknet`).
 - Update paths (e.g., `weights_path`, `image_dir`) as needed.
 
-## Files
+# Files
 - [Traffic-Sign-Recognition.ipynb](https://github.com/sophieleung007/Traffic-Sign-Recognition/blob/main/Traffic-Sign-Recognition.ipynb)
 
